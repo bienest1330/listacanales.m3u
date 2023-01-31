@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1,Radio Uno Plus
+http://streaming.radionomy.com/radiounoplus
+#EXTINF:-1,Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Music Box
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1,A-ONE
+http://hls.novotelecom.ru/streaming/aone/tvrec/playlist.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1, VOLVER AL FUTURO  (OPCION 2)
+http://st110.u1.videomega.tv/v/a7659df695d5c227c392a18c74643ebe.mp4?st=dxESf7E16QZ2zZ2OSzLSFQ&hash=mGGuwjrHSFzkKm-UbApCGw
+#EXTINF:-1, VOLVER AL FUTURO 2 (OPCION 1)
+http://st105.u1.videomega.tv/v/6425f0aae21b934b3911d21907528b59.mp4?st=ZuUA8X7HBmd-0Buetu3QSg&hash=1UKyfSkCBBqUScnumjBtIQ
+#EXTINF:-1, VOLVER AL FUTURO 3 (OPCION 2)
+http://st304.u1.videomega.tv/v/a41a26201383ea87f1177ea53b6826a5.mp4?st=dews1LxreVVnDF9oZWgUsg&hash=n5BcocbevfWihgPmca1D6Q
+#EXTINF:-1,BAD HAIR DAY
+http://st152.u1.videomega.tv/v/68ce1b62bf200bc313bda820a6c76b82.mp4?st=kPRA78gy2ppvG0lJiTIzkQ&hash=AoZ6VCsBWa2GIXWUtyuYAQ
+#EXTINF:-1,CANTINFLAS
+http://st107.u1.videomega.tv/v/2f94fe08a8380ac5c47394eb394e4087.mp4?st=uWGdIoWry8e3T2eWkw3x5Q&hash=Lcyr2_KBaZVAvfCTkF4sYg
+#EXTINF:-1,EL REY LEÓN (1994) HD
+http://st98.u1.videomega.tv/v/00422bc48d6905089097f631870a2734.mp4?st=z_Iy2mFOA7tDpKZJDRs6Hg&hash=Kh9GEcqh_WsYUYd1jRqlcA
+#EXTINF:-1,EL REY LEÓN 2: EL REINO DE SIMBA (1998) HD
+http://st146.u1.videomega.tv/v/b112237943026defd8cebcb89cd5c7e4.mp4?st=spXb_Mek5Xi980xoEXG1dA&hash=hYhxgzIH9UFvz4s_6BvK8w
+#EXTINF:-1,EL REY LEÓN 3: HAKUNA MATATA (2004) HD
+http://st95.u1.videomega.tv/v/a0fbe08f936560e7fe6dc63a450ae1fc.mp4?st=70bc7j7ZT0C8bmFGV5IGcw&hash=xeRf-Yaeqnfi6cdS2TXUcg
+#EXTINF:-1,EL REY LEÓN (1994) INGLES HD
+http://st301.u1.videomega.tv/v/37ec74dbb78f7c71d53528ec81dbb5d4.mp4?st=kKAkCXkyDhpZBpb6gDQ9vg&hash=_eMH5YpfDVvrQbv3FakeYQ
+#EXTINF:-1,EL REY LEÓN 2: EL REINO DE SIMBA (1998) INGLES HD
+http://st144.u1.videomega.tv/v/3004a200c0b810643ca7f82db62b8016.mp4?st=Wg_X-z0ZTmYJlBKm6CUUfw&hash=nCTQFWxLD8uVtGCRFToRPw
+#EXTINF:-1,EL REY LEÓN 3: HAKUNA MATATA (2004) INGLES HD
+http://st308.u1.videomega.tv/v/54aa4c60b93e64f79241c1a0a1b58636.mp4?st=tHaLNqiY66YUQ3sUQP1E1A&hash=hLSjYNPwFnMRquXXZiRyYQ
+#EXTINF:-1,HOME ESPAÑOL HD
+http://st149.u1.videomega.tv/v/3a3fd3ecc404463d91444c6d0ec1290c.mp4?st=SJsR9U2G2bex-1mh60VJyA&hash=IwSKkZENtwrLw79FUJavBg
+#EXTINF:-1,HOME INGLES HD
+http://st117.u1.videomega.tv/v/18674ef57384898b129b6b5433f37a47.mp4?st=MQWUvudNGvC3lfswHW7C2A&hash=mwG9-IE7irCH-a9Jse4wSg
+#EXTINF:-1,HOT GIRLS WANTED
+http://st300.u1.videomega.tv/v/36bc06540dde8cc4a7c139fe3cea9971.mp4?st=Id0lGt_xeKtYyGvSFDyJ_w&hash=v3S4i0rcNoSR-Vcp-dfOlw
+#EXTINF:-1,MCFARLAND
+http://st118.u1.videomega.tv/v/a18ede5d2c56c124d3a5b9ff7c6e3451.mp4?st=InwH8QCNXBF5UjgAh9tWAg&hash=Ndoa6_tZhsCtyduGfeMLPQ
+#EXTINF:-1,SPY 2015
+http://st146.u1.videomega.tv/v/73ba442c00679c9b7d33fbbeb84948e5.mp4?st=Ix0XA7Pd7RUZq9HzJ6nWUg&hash=7IczTHRO4Uu9QCUUD0IrrQ
+#EXTINF:-1,TURBO ESPANOL HD
+http://st95.u1.videomega.tv/v/06bf7a462bd7d359f012e5376f27594a.mp4?st=KpP-uCYbP3C1QnlhBV1l0g&hash=fkHpYUOY3FCuVyNmJ7_Puw
+#EXTINF:-1,TURBO INGLES HD
+http://st108.u1.videomega.tv/v/c1ba83e94af935a482e3abdf0fa00d8e.mp4?st=MpWE3MdHZdM79ogjTSI7kw&hash=XdKb8IKd577nf3xPqgSetA
